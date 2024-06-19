@@ -1,0 +1,43 @@
+apples
+bananas
+oranges
+fruit
+vegetables
+pears
+pizza
+apples and oranges
+juice
+cats
+dogs
+mice
+snakes
+doors
+yard
+house
+home
+vacation
+holiday
+keyboard
+coffee
+monitor
+tea
+router
+modem
+cpu
+memory
+RAM
+DDR RAM
+SD RAM
+printer
+speakers
+hard drive
+solid state drive
+disc drive
+motherboard
+ethernet
+NIC
+wireless
+Wi-Fi
+NFC
+USB
+key
